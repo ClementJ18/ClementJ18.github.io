@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+# ClemNet
 
-You can use the [editor on GitHub](https://github.com/ClementJ18/clementj18.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+A place where libraries I create are documented.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## mod.io
 
-### Markdown
+A wrapper for the [mod.io](https://mod.io/) API, with a sync and async version. Both use the same documentation but coroutines in the async package will be marked as such in the documentation.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+* [Docs](https://clementj18.github.io/mod.io/)
 
-```markdown
-Syntax highlighted code block
+* [Sync Repository](https://github.com/ClementJ18/mod.io)
+* [Async Reposityory](https://github.com/ClementJ18/mod.io/tree/async)
 
-# Header 1
-## Header 2
-### Header 3
+## moddb
 
-- Bulleted
-- List
+A site wide scrapper for [ModDB.com](https://www.moddb.com/) with the goal of being able to navigate the entire site progrmatically.
 
-1. Numbered
-2. List
+* [Docs](https://clementj18.github.io/moddb/) (WIP)
 
-**Bold** and _Italic_ and `Code` text
+* [Repository](https://github.com/ClementJ18/moddb)
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ClementJ18/clementj18.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
