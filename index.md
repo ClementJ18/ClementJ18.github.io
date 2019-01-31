@@ -1,6 +1,6 @@
 # ClemNet
 
-A place where libraries I create are documented.
+A place where where I put stuff to show off. 
 
 ## mod.io
 
