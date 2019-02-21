@@ -15,14 +15,14 @@ A wrapper for the [mod.io](https://mod.io/) API, with a sync and async version. 
 A WIP site wide scrapper for [ModDB.com](https://www.moddb.com/) with the goal of being able to navigate the entire site progrmatically.
 
 * [Docs](https://moddb.readthedocs.io)
-* [Support](https://discord.gg/sce7jmB)
+* [Support](https://discord.gg/8HMcxp)
 * [Repository](https://github.com/ClementJ18/moddb)
 
 ## necrobot
 
 A python discord bot that does some cool stuff, provides moderation tools, social commands, an economy system unique to each server and LOTR related commands.
 
-* [Support](https://discord.gg/sce7jmB)
+* [Support](https://discord.gg/8HMcxp)
 * [Repository](https://github.com/ClementJ18/necrobot)
 
 
