@@ -12,7 +12,7 @@ A wrapper for the [mod.io](https://mod.io/) API, with a sync and async version. 
 
 ## moddb
 
-A WIP site wide scrapper for [ModDB.com](https://www.moddb.com/) with the goal of being able to navigate the entire site progrmatically.
+A site wide scrapper for [ModDB.com](https://www.moddb.com/) with the goal of being able to navigate the entire site programatically, kinda like if the site was actually just one giant API.
 
 * [Docs](https://moddb.readthedocs.io)
 * [Support](https://discord.gg/Ape8bZt)
